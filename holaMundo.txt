@@ -2,4 +2,4 @@ Hola mundo esto es un archivo
 
 Otra cosa
 
-Holis soy Bar
+Holis soy Bar.
